@@ -57,7 +57,10 @@ http://127.0.0.1:8000
 
 ## Notes
 - `vendor/` and `node_modules/` are excluded  
-- Requires PHP, Composer, and MySQL  
+- Requires PHP, Composer, and MySQL
+
+## Screenshot
+![Task Manager UI](task-manager.png)
 
 ## Author
 Procheta Ray
