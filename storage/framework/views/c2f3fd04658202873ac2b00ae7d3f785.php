@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\KIIT\Desktop\INTERSHIP\WEB DEVELOPEMENT\PROJECTS\PROJECT2\task_manager\resources\views/email/notification.blade.php ENDPATH**/ ?>

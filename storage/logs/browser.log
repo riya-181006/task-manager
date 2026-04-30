@@ -1,0 +1,2179 @@
+[2026-03-14 18:13:49] local.ERROR: Uncaught ReferenceError: $ is not defined http://localhost:8000/tasks 262 1 ReferenceError $ is not defined ReferenceError: $ is not defined
+    at http://localhost:8000/tasks:262:1 {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T18:13:49.161Z"} 
+[2026-03-14 18:13:49] local.ERROR: Uncaught ReferenceError: $ is not defined http://localhost:8000/tasks 262 1 ReferenceError $ is not defined ReferenceError: $ is not defined
+    at http://localhost:8000/tasks:262:1 {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T18:13:49.161Z"} 
+[2026-03-14 18:14:00] local.ERROR: Uncaught ReferenceError: $ is not defined http://localhost:8000/tasks 262 1 ReferenceError $ is not defined ReferenceError: $ is not defined
+    at http://localhost:8000/tasks:262:1 {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T18:13:59.639Z"} 
+[2026-03-14 18:14:00] local.ERROR: Uncaught ReferenceError: $ is not defined http://localhost:8000/tasks 262 1 ReferenceError $ is not defined ReferenceError: $ is not defined
+    at http://localhost:8000/tasks:262:1 {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T18:13:59.639Z"} 
+[2026-03-14 18:22:18] local.ERROR: Uncaught ReferenceError: $ is not defined http://localhost:8000/tasks 262 1 ReferenceError $ is not defined ReferenceError: $ is not defined
+    at http://localhost:8000/tasks:262:1 {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T18:22:17.840Z"} 
+[2026-03-14 18:22:18] local.ERROR: Uncaught ReferenceError: $ is not defined http://localhost:8000/tasks 262 1 ReferenceError $ is not defined ReferenceError: $ is not defined
+    at http://localhost:8000/tasks:262:1 {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T18:22:17.840Z"} 
+[2026-03-14 18:22:25] local.ERROR: Uncaught ReferenceError: $ is not defined http://localhost:8000/tasks 262 1 ReferenceError $ is not defined ReferenceError: $ is not defined
+    at http://localhost:8000/tasks:262:1 {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T18:22:25.401Z"} 
+[2026-03-14 18:22:25] local.ERROR: Uncaught ReferenceError: $ is not defined http://localhost:8000/tasks 262 1 ReferenceError $ is not defined ReferenceError: $ is not defined
+    at http://localhost:8000/tasks:262:1 {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T18:22:25.401Z"} 
+[2026-03-14 18:23:20] local.ERROR: Uncaught ReferenceError: $ is not defined http://localhost:8000/tasks 262 1 ReferenceError $ is not defined ReferenceError: $ is not defined
+    at http://localhost:8000/tasks:262:1 {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T18:23:20.027Z"} 
+[2026-03-14 18:23:20] local.ERROR: Uncaught ReferenceError: $ is not defined http://localhost:8000/tasks 262 1 ReferenceError $ is not defined ReferenceError: $ is not defined
+    at http://localhost:8000/tasks:262:1 {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T18:23:20.027Z"} 
+[2026-03-14 18:25:05] local.DEBUG: 123 {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T18:25:04.421Z"} 
+[2026-03-14 18:27:36] local.DEBUG: 123 {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T18:27:35.882Z"} 
+[2026-03-14 18:29:53] local.DEBUG: 123 {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T18:29:52.701Z"} 
+[2026-03-14 19:09:50] local.ERROR: Uncaught ReferenceError: deleteTask is not defined http://localhost:8000/tasks 1 1 ReferenceError deleteTask is not defined ReferenceError: deleteTask is not defined
+    at HTMLElement.onclick (http://localhost:8000/tasks:1:1) {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T19:09:49.387Z"} 
+[2026-03-14 19:09:50] local.ERROR: Uncaught ReferenceError: deleteTask is not defined http://localhost:8000/tasks 1 1 ReferenceError deleteTask is not defined ReferenceError: deleteTask is not defined
+    at HTMLElement.onclick (http://localhost:8000/tasks:1:1) {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T19:09:49.387Z"} 
+[2026-03-14 19:46:02] local.DEBUG: {
+    "message": "SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'task_owner' cannot be null (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: laravel_task_manager, SQL: insert into `tasks` (`task_description`, `task_owner`, `task_owner_email`, `task_eta`, `updated_at`, `created_at`) values (?, ?, ?, ?, 2026-03-14 19:46:01, 2026-03-14 19:46:01))",
+    "exception": "Illuminate\\Database\\QueryException",
+    "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php",
+    "line": 838,
+    "trace": [
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php",
+            "line": 794,
+            "function": "runQueryCallback",
+            "class": "Illuminate\\Database\\Connection",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php",
+            "line": 42,
+            "function": "run",
+            "class": "Illuminate\\Database\\Connection",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Processors\\MySqlProcessor.php",
+            "line": 35,
+            "function": "insert",
+            "class": "Illuminate\\Database\\MySqlConnection",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php",
+            "line": 4140,
+            "function": "processInsertGetId",
+            "class": "Illuminate\\Database\\Query\\Processors\\MySqlProcessor",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php",
+            "line": 2235,
+            "function": "insertGetId",
+            "class": "Illuminate\\Database\\Query\\Builder",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php",
+            "line": 1436,
+            "function": "__call",
+            "class": "Illuminate\\Database\\Eloquent\\Builder",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php",
+            "line": 1401,
+            "function": "insertAndSetId",
+            "class": "Illuminate\\Database\\Eloquent\\Model",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php",
+            "line": 1240,
+            "function": "performInsert",
+            "class": "Illuminate\\Database\\Eloquent\\Model",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\app\\Http\\Controllers\\API\\APITasksController.php",
+            "line": 20,
+            "function": "save",
+            "class": "Illuminate\\Database\\Eloquent\\Model",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php",
+            "line": 46,
+            "function": "create",
+            "class": "App\\Http\\Controllers\\API\\APITasksController",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+            "line": 265,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\ControllerDispatcher",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+            "line": 211,
+            "function": "runController",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 822,
+            "function": "run",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 180,
+            "function": "Illuminate\\Routing\\{closure}",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php",
+            "line": 50,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Routing\\Middleware\\SubstituteBindings",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 137,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 821,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 800,
+            "function": "runRouteWithinStack",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 764,
+            "function": "runRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 753,
+            "function": "dispatchToRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 200,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 180,
+            "function": "Illuminate\\Foundation\\Http\\{closure}",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php",
+            "line": 31,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php",
+            "line": 51,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TrimStrings",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php",
+            "line": 27,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\ValidatePostSize",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php",
+            "line": 109,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php",
+            "line": 74,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\HandleCors",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php",
+            "line": 58,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\TrustProxies",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php",
+            "line": 22,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php",
+            "line": 26,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\ValidatePathEncoding",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 137,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 175,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 144,
+            "function": "sendRequestThroughRouter",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php",
+            "line": 1220,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\public\\index.php",
+            "line": 20,
+            "function": "handleRequest",
+            "class": "Illuminate\\Foundation\\Application",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php",
+            "line": 23,
+            "function": "require_once"
+        }
+    ]
+} {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T19:46:01.979Z"} 
+[2026-03-14 19:46:03] local.DEBUG: {
+    "message": "SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'task_owner' cannot be null (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: laravel_task_manager, SQL: insert into `tasks` (`task_description`, `task_owner`, `task_owner_email`, `task_eta`, `updated_at`, `created_at`) values (?, ?, ?, ?, 2026-03-14 19:46:03, 2026-03-14 19:46:03))",
+    "exception": "Illuminate\\Database\\QueryException",
+    "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php",
+    "line": 838,
+    "trace": [
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php",
+            "line": 794,
+            "function": "runQueryCallback",
+            "class": "Illuminate\\Database\\Connection",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php",
+            "line": 42,
+            "function": "run",
+            "class": "Illuminate\\Database\\Connection",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Processors\\MySqlProcessor.php",
+            "line": 35,
+            "function": "insert",
+            "class": "Illuminate\\Database\\MySqlConnection",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php",
+            "line": 4140,
+            "function": "processInsertGetId",
+            "class": "Illuminate\\Database\\Query\\Processors\\MySqlProcessor",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php",
+            "line": 2235,
+            "function": "insertGetId",
+            "class": "Illuminate\\Database\\Query\\Builder",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php",
+            "line": 1436,
+            "function": "__call",
+            "class": "Illuminate\\Database\\Eloquent\\Builder",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php",
+            "line": 1401,
+            "function": "insertAndSetId",
+            "class": "Illuminate\\Database\\Eloquent\\Model",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php",
+            "line": 1240,
+            "function": "performInsert",
+            "class": "Illuminate\\Database\\Eloquent\\Model",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\app\\Http\\Controllers\\API\\APITasksController.php",
+            "line": 20,
+            "function": "save",
+            "class": "Illuminate\\Database\\Eloquent\\Model",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php",
+            "line": 46,
+            "function": "create",
+            "class": "App\\Http\\Controllers\\API\\APITasksController",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+            "line": 265,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\ControllerDispatcher",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+            "line": 211,
+            "function": "runController",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 822,
+            "function": "run",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 180,
+            "function": "Illuminate\\Routing\\{closure}",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php",
+            "line": 50,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Routing\\Middleware\\SubstituteBindings",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 137,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 821,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 800,
+            "function": "runRouteWithinStack",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 764,
+            "function": "runRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 753,
+            "function": "dispatchToRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 200,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 180,
+            "function": "Illuminate\\Foundation\\Http\\{closure}",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php",
+            "line": 31,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php",
+            "line": 51,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TrimStrings",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php",
+            "line": 27,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\ValidatePostSize",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php",
+            "line": 109,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php",
+            "line": 74,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\HandleCors",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php",
+            "line": 58,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\TrustProxies",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php",
+            "line": 22,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php",
+            "line": 26,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\ValidatePathEncoding",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 137,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 175,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 144,
+            "function": "sendRequestThroughRouter",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php",
+            "line": 1220,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\public\\index.php",
+            "line": 20,
+            "function": "handleRequest",
+            "class": "Illuminate\\Foundation\\Application",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php",
+            "line": 23,
+            "function": "require_once"
+        }
+    ]
+} {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T19:46:03.589Z"} 
+[2026-03-14 19:59:12] local.ERROR: Uncaught SyntaxError: Unexpected identifier 'task_status' http://localhost:8000/tasks 389 13 SyntaxError Unexpected identifier 'task_status' SyntaxError: Unexpected identifier 'task_status' {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T19:59:11.414Z"} 
+[2026-03-14 19:59:12] local.ERROR: Uncaught SyntaxError: Unexpected identifier 'task_status' http://localhost:8000/tasks 389 13 SyntaxError Unexpected identifier 'task_status' SyntaxError: Unexpected identifier 'task_status' {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T19:59:11.414Z"} 
+[2026-03-14 19:59:13] local.ERROR: Uncaught ReferenceError: addtask is not defined http://localhost:8000/tasks 226 86 ReferenceError addtask is not defined ReferenceError: addtask is not defined
+    at HTMLButtonElement.onclick (http://localhost:8000/tasks:226:86) {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T19:59:12.888Z"} 
+[2026-03-14 19:59:13] local.ERROR: Uncaught ReferenceError: addtask is not defined http://localhost:8000/tasks 226 86 ReferenceError addtask is not defined ReferenceError: addtask is not defined
+    at HTMLButtonElement.onclick (http://localhost:8000/tasks:226:86) {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T19:59:12.888Z"} 
+[2026-03-14 19:59:14] local.ERROR: Uncaught ReferenceError: addtask is not defined http://localhost:8000/tasks 226 86 ReferenceError addtask is not defined ReferenceError: addtask is not defined
+    at HTMLButtonElement.onclick (http://localhost:8000/tasks:226:86) {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T19:59:14.128Z"} 
+[2026-03-14 19:59:14] local.ERROR: Uncaught ReferenceError: addtask is not defined http://localhost:8000/tasks 226 86 ReferenceError addtask is not defined ReferenceError: addtask is not defined
+    at HTMLButtonElement.onclick (http://localhost:8000/tasks:226:86) {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T19:59:14.129Z"} 
+[2026-03-14 20:01:40] local.ERROR: Uncaught ReferenceError: addTask is not defined http://localhost:8000/tasks 226 86 ReferenceError addTask is not defined ReferenceError: addTask is not defined
+    at HTMLButtonElement.onclick (http://localhost:8000/tasks:226:86) {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T20:01:40.226Z"} 
+[2026-03-14 20:01:40] local.ERROR: Uncaught ReferenceError: addTask is not defined http://localhost:8000/tasks 226 86 ReferenceError addTask is not defined ReferenceError: addTask is not defined
+    at HTMLButtonElement.onclick (http://localhost:8000/tasks:226:86) {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T20:01:40.227Z"} 
+[2026-03-14 20:01:41] local.ERROR: Uncaught ReferenceError: addTask is not defined http://localhost:8000/tasks 226 86 ReferenceError addTask is not defined ReferenceError: addTask is not defined
+    at HTMLButtonElement.onclick (http://localhost:8000/tasks:226:86) {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T20:01:41.570Z"} 
+[2026-03-14 20:01:41] local.ERROR: Uncaught ReferenceError: addTask is not defined http://localhost:8000/tasks 226 86 ReferenceError addTask is not defined ReferenceError: addTask is not defined
+    at HTMLButtonElement.onclick (http://localhost:8000/tasks:226:86) {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-14T20:01:41.570Z"} 
+[2026-03-15 17:15:01] local.DEBUG: {
+    "message": "syntax error, unexpected token \"@\", expecting \"function\" or \"const\"",
+    "exception": "ParseError",
+    "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\app\\Jobs\\SendEmailJob.php",
+    "line": 14,
+    "trace": [
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\composer\\ClassLoader.php",
+            "line": 427,
+            "function": "Composer\\Autoload\\{closure}"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\app\\Http\\Controllers\\API\\APITasksController.php",
+            "line": 23,
+            "function": "loadClass",
+            "class": "Composer\\Autoload\\ClassLoader",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php",
+            "line": 46,
+            "function": "create",
+            "class": "App\\Http\\Controllers\\API\\APITasksController",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+            "line": 265,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\ControllerDispatcher",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+            "line": 211,
+            "function": "runController",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 822,
+            "function": "run",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 180,
+            "function": "Illuminate\\Routing\\{closure}",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php",
+            "line": 50,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Routing\\Middleware\\SubstituteBindings",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 137,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 821,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 800,
+            "function": "runRouteWithinStack",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 764,
+            "function": "runRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 753,
+            "function": "dispatchToRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 200,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 180,
+            "function": "Illuminate\\Foundation\\Http\\{closure}",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php",
+            "line": 31,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php",
+            "line": 51,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TrimStrings",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php",
+            "line": 27,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\ValidatePostSize",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php",
+            "line": 109,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php",
+            "line": 74,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\HandleCors",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php",
+            "line": 58,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\TrustProxies",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php",
+            "line": 22,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php",
+            "line": 26,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\ValidatePathEncoding",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 137,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 175,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 144,
+            "function": "sendRequestThroughRouter",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php",
+            "line": 1220,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\public\\index.php",
+            "line": 20,
+            "function": "handleRequest",
+            "class": "Illuminate\\Foundation\\Application",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php",
+            "line": 23,
+            "function": "require_once"
+        }
+    ]
+} {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-15T17:15:00.945Z"} 
+[2026-03-15 17:16:28] local.DEBUG: {
+    "message": "syntax error, unexpected token \"@\", expecting \"function\" or \"const\"",
+    "exception": "ParseError",
+    "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\app\\Jobs\\SendEmailJob.php",
+    "line": 14,
+    "trace": [
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\composer\\ClassLoader.php",
+            "line": 427,
+            "function": "Composer\\Autoload\\{closure}"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\app\\Http\\Controllers\\API\\APITasksController.php",
+            "line": 23,
+            "function": "loadClass",
+            "class": "Composer\\Autoload\\ClassLoader",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php",
+            "line": 46,
+            "function": "create",
+            "class": "App\\Http\\Controllers\\API\\APITasksController",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+            "line": 265,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\ControllerDispatcher",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+            "line": 211,
+            "function": "runController",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 822,
+            "function": "run",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 180,
+            "function": "Illuminate\\Routing\\{closure}",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php",
+            "line": 50,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Routing\\Middleware\\SubstituteBindings",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 137,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 821,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 800,
+            "function": "runRouteWithinStack",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 764,
+            "function": "runRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 753,
+            "function": "dispatchToRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 200,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 180,
+            "function": "Illuminate\\Foundation\\Http\\{closure}",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php",
+            "line": 31,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php",
+            "line": 51,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TrimStrings",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php",
+            "line": 27,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\ValidatePostSize",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php",
+            "line": 109,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php",
+            "line": 74,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\HandleCors",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php",
+            "line": 58,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\TrustProxies",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php",
+            "line": 22,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php",
+            "line": 26,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\ValidatePathEncoding",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 137,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 175,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 144,
+            "function": "sendRequestThroughRouter",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php",
+            "line": 1220,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\public\\index.php",
+            "line": 20,
+            "function": "handleRequest",
+            "class": "Illuminate\\Foundation\\Application",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php",
+            "line": 23,
+            "function": "require_once"
+        }
+    ]
+} {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-15T17:16:28.388Z"} 
+[2026-03-15 17:16:30] local.DEBUG: {
+    "message": "syntax error, unexpected token \"@\", expecting \"function\" or \"const\"",
+    "exception": "ParseError",
+    "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\app\\Jobs\\SendEmailJob.php",
+    "line": 14,
+    "trace": [
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\composer\\ClassLoader.php",
+            "line": 427,
+            "function": "Composer\\Autoload\\{closure}"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\app\\Http\\Controllers\\API\\APITasksController.php",
+            "line": 23,
+            "function": "loadClass",
+            "class": "Composer\\Autoload\\ClassLoader",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php",
+            "line": 46,
+            "function": "create",
+            "class": "App\\Http\\Controllers\\API\\APITasksController",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+            "line": 265,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\ControllerDispatcher",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+            "line": 211,
+            "function": "runController",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 822,
+            "function": "run",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 180,
+            "function": "Illuminate\\Routing\\{closure}",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php",
+            "line": 50,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Routing\\Middleware\\SubstituteBindings",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 137,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 821,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 800,
+            "function": "runRouteWithinStack",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 764,
+            "function": "runRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 753,
+            "function": "dispatchToRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 200,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 180,
+            "function": "Illuminate\\Foundation\\Http\\{closure}",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php",
+            "line": 31,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php",
+            "line": 51,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TrimStrings",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php",
+            "line": 27,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\ValidatePostSize",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php",
+            "line": 109,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php",
+            "line": 74,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\HandleCors",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php",
+            "line": 58,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\TrustProxies",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php",
+            "line": 22,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php",
+            "line": 26,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\ValidatePathEncoding",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 137,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 175,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 144,
+            "function": "sendRequestThroughRouter",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php",
+            "line": 1220,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\public\\index.php",
+            "line": 20,
+            "function": "handleRequest",
+            "class": "Illuminate\\Foundation\\Application",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php",
+            "line": 23,
+            "function": "require_once"
+        }
+    ]
+} {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-15T17:16:30.318Z"} 
+[2026-03-15 17:16:48] local.DEBUG: {
+    "message": "syntax error, unexpected token \"@\", expecting \"function\" or \"const\"",
+    "exception": "ParseError",
+    "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\app\\Jobs\\SendEmailJob.php",
+    "line": 14,
+    "trace": [
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\composer\\ClassLoader.php",
+            "line": 427,
+            "function": "Composer\\Autoload\\{closure}"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\app\\Http\\Controllers\\API\\APITasksController.php",
+            "line": 23,
+            "function": "loadClass",
+            "class": "Composer\\Autoload\\ClassLoader",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php",
+            "line": 46,
+            "function": "create",
+            "class": "App\\Http\\Controllers\\API\\APITasksController",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+            "line": 265,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\ControllerDispatcher",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+            "line": 211,
+            "function": "runController",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 822,
+            "function": "run",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 180,
+            "function": "Illuminate\\Routing\\{closure}",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php",
+            "line": 50,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Routing\\Middleware\\SubstituteBindings",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 137,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 821,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 800,
+            "function": "runRouteWithinStack",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 764,
+            "function": "runRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 753,
+            "function": "dispatchToRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 200,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 180,
+            "function": "Illuminate\\Foundation\\Http\\{closure}",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php",
+            "line": 31,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php",
+            "line": 51,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TrimStrings",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php",
+            "line": 27,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\ValidatePostSize",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php",
+            "line": 109,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php",
+            "line": 74,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\HandleCors",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php",
+            "line": 58,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\TrustProxies",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php",
+            "line": 22,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php",
+            "line": 26,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\ValidatePathEncoding",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 137,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 175,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 144,
+            "function": "sendRequestThroughRouter",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php",
+            "line": 1220,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\public\\index.php",
+            "line": 20,
+            "function": "handleRequest",
+            "class": "Illuminate\\Foundation\\Application",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php",
+            "line": 23,
+            "function": "require_once"
+        }
+    ]
+} {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-15T17:16:48.228Z"} 
+[2026-03-15 17:31:51] local.DEBUG: {
+    "message": "SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'task_eta' cannot be null (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: laravel_task_manager, SQL: update `tasks` set `task_eta` = ?, `tasks`.`updated_at` = 2026-03-15 17:31:50 where `id` = 2)",
+    "exception": "Illuminate\\Database\\QueryException",
+    "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php",
+    "line": 838,
+    "trace": [
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php",
+            "line": 794,
+            "function": "runQueryCallback",
+            "class": "Illuminate\\Database\\Connection",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php",
+            "line": 597,
+            "function": "run",
+            "class": "Illuminate\\Database\\Connection",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php",
+            "line": 549,
+            "function": "affectingStatement",
+            "class": "Illuminate\\Database\\Connection",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php",
+            "line": 4204,
+            "function": "update",
+            "class": "Illuminate\\Database\\Connection",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php",
+            "line": 1266,
+            "function": "update",
+            "class": "Illuminate\\Database\\Query\\Builder",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php",
+            "line": 1316,
+            "function": "update",
+            "class": "Illuminate\\Database\\Eloquent\\Builder",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php",
+            "line": 1233,
+            "function": "performUpdate",
+            "class": "Illuminate\\Database\\Eloquent\\Model",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\app\\Http\\Controllers\\API\\APITasksController.php",
+            "line": 52,
+            "function": "save",
+            "class": "Illuminate\\Database\\Eloquent\\Model",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php",
+            "line": 46,
+            "function": "update",
+            "class": "App\\Http\\Controllers\\API\\APITasksController",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+            "line": 265,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\ControllerDispatcher",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
+            "line": 211,
+            "function": "runController",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 822,
+            "function": "run",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 180,
+            "function": "Illuminate\\Routing\\{closure}",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php",
+            "line": 50,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Routing\\Middleware\\SubstituteBindings",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 137,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 821,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 800,
+            "function": "runRouteWithinStack",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 764,
+            "function": "runRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php",
+            "line": 753,
+            "function": "dispatchToRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 200,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 180,
+            "function": "Illuminate\\Foundation\\Http\\{closure}",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php",
+            "line": 31,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php",
+            "line": 51,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TrimStrings",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php",
+            "line": 27,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\ValidatePostSize",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php",
+            "line": 109,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php",
+            "line": 74,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\HandleCors",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php",
+            "line": 58,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\TrustProxies",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php",
+            "line": 22,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php",
+            "line": 26,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 219,
+            "function": "handle",
+            "class": "Illuminate\\Http\\Middleware\\ValidatePathEncoding",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php",
+            "line": 137,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 175,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php",
+            "line": 144,
+            "function": "sendRequestThroughRouter",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php",
+            "line": 1220,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\public\\index.php",
+            "line": 20,
+            "function": "handleRequest",
+            "class": "Illuminate\\Foundation\\Application",
+            "type": "->"
+        },
+        {
+            "file": "C:\\Users\\KIIT\\Desktop\\INTERSHIP\\WEB DEVELOPEMENT\\PROJECTS\\PROJECT2\\task_manager\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php",
+            "line": 23,
+            "function": "require_once"
+        }
+    ]
+} {"url":"http://localhost:8000/tasks","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","timestamp":"2026-03-15T17:31:50.398Z"} 
