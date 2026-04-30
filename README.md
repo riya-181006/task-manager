@@ -60,7 +60,7 @@ http://127.0.0.1:8000
 - Requires PHP, Composer, and MySQL
 
 ## Screenshot
-![Task Manager UI](task-manager.png)
+![Task Manager UI](assets/images/task-manager.png)
 
 ## Author
 Procheta Ray
